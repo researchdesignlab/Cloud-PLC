@@ -6,4 +6,5 @@ Cloud PLC 4.0 series defines a new way of transforming factories into smart/inte
 Cloud PLC 4.0 supporting for wide range of industrial protocols like Modbus, MQTT, JSON, RESTful, TCP/UDP, SNMP protocol, which makes the monitoring and solution integration, easier than ever for IT engineers through open source APIs. Cloud PLC 4.0 can used to build the custom industrial solution for monitoring and controlling PLC and SCADA, HMI, VFD, Motors, servo, Valves, energy meter, actuators, relays, encoder, RFID and fingerprint readers, industrial sensors and many more with below mentioned operational benefits.
 
 For similar products, please visit www.rdltech.in
+
 If you have any questions or queries, please contact support@researchdesignlab.com
